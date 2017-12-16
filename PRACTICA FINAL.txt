@@ -1,0 +1,15 @@
+Una empresa de préstamos decidió cambiar su esquema de cobros 
+- Si el préstamo es de más de 5000, cobra en cinco cuotas. 
+- Si el préstamo es de menos de 1000, cobra en una cuota. 
+- Si el préstamo es entre 1000 y 3000 cobra en dos cuotas. 
+- En los demás casos cobra en tres cuotas. 
+Adicionalmente, si es de menos de 4000 cobra un interés del 10%, en caso contrario cobra 12%. 
+El programa debe decir en cuantas cuotas debe pagar y de cuánto será cada cuota. (el valor de la cuota es el valor de la deuda más el interés entre el número de cuotas.)
+
+
+
+
+
+
+
+
